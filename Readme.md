@@ -2,6 +2,13 @@
 
 This repository demonstrates how to train a simple linear regression model using scikit-learn and then save and load the trained model using both `pickle` and `joblib`.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Saving-Machine-Learning-Model/assets/113255836/2194d6b1-aff3-4482-a913-5473f09d3b0c
+
+
+
 ## Overview
 
 The dataset used is the Canada Per Capita Income dataset, which contains information on per capita income over several years. The project includes the following steps:
